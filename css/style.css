@@ -17,7 +17,12 @@ body {
     color: #656565;
     font-size: 16px;
 }
-
+.col-lg-6 {
+    margin: 0;
+    padding: 0;
+  
+}
+.container-fluid col-12
 
 
 /* -------------- Blocs -------------- */
@@ -394,7 +399,7 @@ header h1 {
 /* ******************************** */
 
 footer {
-    background-image: url("assets/images/footer.jpg");
+    background-image: url("../img/footer.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
